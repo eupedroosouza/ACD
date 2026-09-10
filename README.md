@@ -3,3 +3,4 @@
 
  - [Hierarquia com Veículos](https://github.com/eupedroosouza/ACD/tree/main/hierarquia_com_veiculos)
  - [Supermercado](https://github.com/eupedroosouza/ACD/tree/main/supermercado)
+ - [Expressões Aritméticas Compostas](https://github.com/eupedroosouza/ACD/tree/main/expressoes_aritmeticas_compostas)
