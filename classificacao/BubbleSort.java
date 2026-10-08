@@ -6,7 +6,7 @@ public class BubbleSort extends SwapSort {
     public void sort(List<Number> list) {
         boolean change = true;
         final int lastIndex = list.size() - 1; // index start with 0 (then last index is size - 1)
-        for (int i = 0; i < (lastIndex - 1) && change; i++) {
+        for (int i = 0; i < lastIndex && change; i++) {
             iterations++;
             change = false;
             for (int j = lastIndex; j > i; j--) {
